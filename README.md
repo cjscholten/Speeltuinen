@@ -1,4 +1,4 @@
 Speeltuinen
 ===========
 
-Speeltuinen in het wild
+Speeltuinen
